@@ -1,6 +1,6 @@
 ### 👋 Hi! I'm Nicholas Kondal
 
-I'm a Biomedical Engineering and Physics student who, as of late 2020, has decided to extend his degree by 2 years to study Computer Science because of a desire to pursue an interdisciplinary exploration of the human mind 🧠, the universe 🌌, and everything in between (especially doggos 🐶).
+I'm a Biomedical Engineering and Physics student who, as of mid 2020, has decided to extend his degree by 2 years to study Computer Science because of a desire to pursue an interdisciplinary exploration of the human mind 🧠, the universe 🌌, and everything in between (especially doggos 🐶).
 
 There's not much on here at the moment but I'll be uploading all my university projects as well as my final-year Engineering honours project in a few months!
 
