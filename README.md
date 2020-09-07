@@ -1,4 +1,13 @@
-### Hi there 👋
+### 👋 Hi! I'm Nicholas Kondal
+
+I'm a Biomedical Engineering and Physics student who, as of late 2020, has decided to extend his degree by 2 years to study Computer Science because of a desire to pursue an interdisciplinary exploration of the human mind 🧠, the universe 🌌, and everything in between (especially doggos 🐶).
+
+There's not much on here at the moment but I'll be uploading all my university projects as well as my final-year Engineering honours project in a few months!
+
+- 🔭 I’m currently working on multi-class classification of time-series brain signals using machine learning algorithms in Python
+- 🌱 I’m currently learning about ML pipelines, data science, and test-driven development
+- 📫 How to reach me: [GitHub](https://github.com/nickykay98) (you're already here!) and [LinkedIn](https://www.linkedin.com/in/nicholas-kondal)
+- ⚡ Fun fact: I've been collecting LEGO for 13 years and have no intention of stopping.
 
 <!--
 **nickykay98/nickykay98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
