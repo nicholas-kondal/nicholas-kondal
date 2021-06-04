@@ -4,10 +4,18 @@ I'm a Biomedical Engineering and Physics student who, as of mid-2020, has decide
 
 There's not much on here at the moment but I'll be uploading all my university projects as well as my final-year Engineering honours project in a few months!
 
-- 🔭 I’m currently working on multi-class classification of time-series brain signals using machine learning algorithms in Python
 - 🌱 I’m currently learning about ML pipelines, data science, and test-driven development
 - 📫 How to reach me: [GitHub](https://github.com/nickykay98/) (you're already here!) and [LinkedIn](https://www.linkedin.com/in/nicholas-kondal/)
 - ⚡ Fun fact: I've been collecting LEGO for 13 years and have no intention of stopping.
+
+Projects which I've worked on:
+- Engineering Honour's thesis on multi-class classification of time-series brain signals using machine learning algorithms in Python
+- Hackathons including the [Google Developer Student Club hackathon](https://devpost.com/software/qualia) (1st place! 🏆), and others from AUCS and the FoE
+
+Projects which I may or may not be working on currently 🤫:
+- Open-source contributions to libraries dealing with human pose estimation from images 🤺
+- Web development in Python using Flask and Django 💻
+- Creating software for robots in space 🌌
 
 I also dabble(d) in writing blogs:
 
