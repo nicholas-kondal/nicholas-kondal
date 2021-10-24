@@ -10,7 +10,7 @@ There's not much on here at the moment but I'll be uploading all my university p
 
 Projects which I've worked on:
 - Engineering Honour's thesis on multi-class classification of time-series brain signals using machine learning algorithms in Python
-- Hackathons including the [Google Developer Student Club hackathon](https://devpost.com/software/qualia) (1st place! 🏆), and others from AUCS and the FoE
+- Hackathons including the [Google Developer Student Club hackathon](https://devpost.com/software/qualia) (1st place! 🏆), [MYOB IT Challenge](https://www.youtube.com/watch?v=RRvTa27t5fE&t=203s) (another 1st place! 🥇) and others from AUCS and the FoE
 
 Projects which I may or may not be working on currently 🤫:
 - Open-source contributions to libraries dealing with human pose estimation from images 🤺
